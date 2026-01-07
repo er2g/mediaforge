@@ -31,3 +31,6 @@ src-tauri/bin/ffplay-*
 
 # Local build/download artifacts
 .tmp_ffmpeg*
+
+# Local tooling (e.g. pinned Node.js)
+.tools/
